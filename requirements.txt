@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-cohere
-pinecone-client
+pydantic
 PyPDF2
+cohere
 numpy
+pinecone-client
