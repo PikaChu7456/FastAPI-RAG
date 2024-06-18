@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+cohere
+pinecone-client
+PyPDF2
+numpy
